@@ -1,0 +1,33 @@
+{
+  "name": "learn-velocityjs",
+  "version": "1.0.0",
+  "description": "VelocityJS 가속화 애니메이션 라이브러리 학습",
+  "repository": "https://github.com/yamoo9/velocity.git",
+  "author": "Jee Hoon <yamoo9@naver.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "bundle": "rollup -c",
+    "dev": "rollup -cw",
+    "build": "NODE_ENV=production rollup -c",
+    "clear": "rm -rf dist"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "velocity-animate": "^1.5.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015-rollup": "^3.0.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "rollup": "^0.53.0",
+    "rollup-plugin-babel": "^3.0.3",
+    "rollup-plugin-commonjs": "^8.2.6",
+    "rollup-plugin-css-porter": "^0.1.2",
+    "rollup-plugin-eslint": "^4.0.0",
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "rollup-plugin-uglify": "^2.0.1"
+  }
+}

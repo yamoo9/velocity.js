@@ -1,0 +1,26 @@
+{
+    "extends": "airbnb-base",
+    "env": {
+        "node": true,
+        "browser": true,
+        "jquery": true,
+        "es6": true
+    },
+    "globals": {
+        "ENV": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 8,
+        "sourceType": "module"
+    },
+    "rules": {
+        "no-console": "off",
+        "no-unneeded-ternary": "off",
+        "no-multi-spaces": "off",
+        "no-unused-vars": "off",
+        "no-mixed-operators": "off",
+        "eol-last": "off",
+        "camelcase": "off",
+        "space-in-parens": "off"
+    }
+}
