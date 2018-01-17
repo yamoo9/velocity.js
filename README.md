@@ -96,7 +96,7 @@ JavaScript 애니메이션 가속화 라이브러리 Velocity
 
 jQuery는 훌륭한 문서객체모델(DOM) 라이브러리지만, 애니메이션 처리 속도가 느립니다. jQuery의 느린 애니메이션을 보완할 라이브러리로 [VelocityJS](http://velocityjs.org/)를 사용해봅시다<i>!</i>
 
-<img src='./assets/velocityjs-logo.png' alt='GreenSock' align='left' width='180' height='170'>
+<img src='./assets/velocityjs-logo.png' alt='VelocityJS' align='left' width='180' height='170'>
 
 VelocityJS는 jQuery `.animate()` 와 동일한 API를 제공하는 애니메이션 엔진으로 jQuery 없이도 작동합니다.
 jQuery `.animate()`와 달리, 매우 빠르고 컬러(Color), 트랜스폼(Transform), 반복(Loop), 이징(easings), 스크롤(Scroll), SVG 애니메이션 등 다양한 기능을 지원합니다.
