@@ -119,9 +119,27 @@ VelocityJS의 초고속 애니메이션 비밀은 DOM과 트윈스택(Tween Stac
   CSS만으로는 이와 같은 일을 수행할 수 없죠.
 
 <br>
-<br>
 
 [⇪ 목차로 이동](#velocityjs)
+
+<br>
+
+### VelocityJS 동영상 강의
+
+글을 읽는 것보다 영상 강의를 선호한다면 [VelocityJS 영상 강의](https://goo.gl/th5jMm)를 시청해보세요.
+
+<!-- - [01. 개발 환경구성](https://youtu.be/ILLvXhsBq8Q)
+- [02. Velocity() 함수 사용 방법](https://youtu.be/U50AF08DLe4)
+- [03. 인스턴스 메서드 .velocity() & 포스피딩](https://youtu.be/foKSUTddQ7U)
+- [04. 슬라이드 & 페이드 메서드](https://youtu.be/5hlVenlnvKY)
+- [05. 슬라이드 토글 메서드](https://youtu.be/ia_EsGPz4A8)
+- [06. 스크롤 애니메이션](https://youtu.be/L_zqgS8ywOc)
+- [07. 리버스 애니메이션 & 루프](https://youtu.be/Yg1kPp_YI9I)
+- [08. 커스텀 메서드 등록](https://youtu.be/bTrnm86iJ30)
+- [09. UI팩 & 스태거 애니메이션](https://youtu.be/hHl26q-rm8w)
+- [10. 런시퀀스 애니메이션](https://youtu.be/_1N9Y64OYC8) -->
+
+<br>
 
 ### 1. 파일 다운로드 및 CDN 로드
 
